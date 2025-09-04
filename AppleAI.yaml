@@ -1,0 +1,8 @@
+# NAME: Apple AI Rules
+# AUTHOR: swd350 (replace with your Telegram handle, GitHub username, or other identifier)
+# UPDATED: 2025-09-04
+
+payload:
+# > Apple AI
+  - DOMAIN-SUFFIX,apple-relay.cloudflare.com
+  - DOMAIN-SUFFIX,apple-relay.apple.com
