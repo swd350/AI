@@ -1,6 +1,6 @@
 # NAME: Ai Rules
 # AUTHOR: swd350
-# UPDATED: 2025-09-05
+# UPDATED: 2025-09-18
 
 payload:
 # > Ai general rules
@@ -22,10 +22,6 @@ payload:
   - DOMAIN-SUFFIX,wp.com
   - DOMAIN-SUFFIX,sentry.io
   - DOMAIN-SUFFIX,stripe.com
-
-# > Apple AI
-  - DOMAIN-SUFFIX,apple-relay.cloudflare.com
-  - DOMAIN-SUFFIX,apple-relay.apple.com
 
 # > Anthropic/Claude
   - DOMAIN,cdn.usefathom.com
