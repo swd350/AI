@@ -10,6 +10,7 @@ payload:
   - DOMAIN-SUFFIX,apple-relay.cloudflare.com
   - DOMAIN-SUFFIX,apple-relay.fastly-edge.com
   - DOMAIN-SUFFIX,cp4.cloudflare.com
+  - DOMAIN-SUFFIX,smoot.apple.com
   - IP-CIDR,17.248.152.145/24
   - IP-CIDR,17.248.152.113/24
   - DOMAIN-KEYWORD,apple-relay
